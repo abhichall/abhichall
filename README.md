@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on completing my Bachelors of Science at Rutgers University - New Brunswick
-- 🌱 I’m currently learning how to incorprate Artificial Intelligence and Machine Learning into my Python-based projects
 - 💬 I am always looking to connect with new people!
 - 📫 How to reach me: sc2639@scarletmail.rutgers.edu 
 - 📄 LinkedIn: https://www.linkedin.com/in/abhinav-challa-10a339216/
