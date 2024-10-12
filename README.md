@@ -1,6 +1,6 @@
 ### hi there 👋
 
-- 🔭 i'm currently working on completing my Bachelors of Science at Rutgers University - New Brunswick
+- 🔭 i'm currently working on completing my bachelors of science at rutgers university - new brunswick
 - 💬 i am always looking to connect with new people!
 - 📫 How to reach me: sc2639@scarletmail.rutgers.edu
 - 💼 incoming swe @ j.p morgan | current @ j&j
