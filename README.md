@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on completing my Bachelors of Science at Rutgers University - New Brunswick
 - 💬 I am always looking to connect with new people!
-- 📫 How to reach me: sc2639@scarletmail.rutgers.edu 
+- 📫 How to reach me: sc2639@scarletmail.rutgers.edu
+- 💼 I am currently a SWE Intern @ Johnson & Johnson & will be @ J.P Morgan & Chase starting June of 2025
 - 📄 LinkedIn: https://www.linkedin.com/in/abhinav-challa-10a339216/
 
 <!--
