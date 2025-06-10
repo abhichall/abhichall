@@ -2,7 +2,7 @@
 
 - 🔭 i'm currently working on completing my bachelors of science at rutgers university - new brunswick
 - 💬 i am always looking to connect with new people!
-- 💼 prev. swe @ j&j
+- 💼 curr @ jpm --- prev. swe @ j&j
 - 📫 How to reach me: sc2639@scarletmail.rutgers.edu
 - 📄 linkedIn: https://www.linkedin.com/in/abhinav-challa-10a339216/
 
